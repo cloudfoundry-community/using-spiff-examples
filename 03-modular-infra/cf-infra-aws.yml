@@ -1,0 +1,3 @@
+compilation:
+  cloud_properties:
+    instance_type: c1.medium
