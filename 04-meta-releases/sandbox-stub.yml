@@ -1,0 +1,7 @@
+name: sandbox-cf
+director_uuid: 21a7a7ee-d7f1-11e4-9dd5
+releases:
+- name: cf
+  version: 205
+- name: monitor-server
+  version: latest

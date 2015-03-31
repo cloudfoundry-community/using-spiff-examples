@@ -1,0 +1,13 @@
+meta:
+  releases:
+  - name: cf
+    version: latest
+
+name: my-cf
+director_uuid: (( merge ))
+
+releases: (( meta.releases ))
+
+compilation:
+  workers: 6
+  cloud_properties: (( merge ))
