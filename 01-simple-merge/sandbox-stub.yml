@@ -1,2 +1,5 @@
 name: sandbox-cf
 director_uuid: 21a7a7ee-d7f1-11e4-9dd5
+compilation:
+  cloud_properties:
+    instance_type: c1.medium
