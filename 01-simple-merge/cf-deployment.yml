@@ -1,0 +1,4 @@
+name: my-cf
+director_uuid: (( merge ))
+compilation:
+  workers: 6
